@@ -1,0 +1,9 @@
+Error Lists
+
+
+
+$query = "SELECT * FROM `admin` WHERE `username`= '$username' AND `password`='$password'";
+
+` <-- this and '  <-- this both are different , sometime it make  # error 1
+
+Error 1 : mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean
