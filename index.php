@@ -1,4 +1,8 @@
 <?php
+//this is just for testing in rahul-demo
+
+
+echo "rahul demo class";
 include 'menu.php';
 include 'header.php'; // we include html starting code on this file 
 ?>
